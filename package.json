@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/fancn21th/0_24_SocketIO_Test/issues"
   },
-  "homepage": "https://github.com/fancn21th/0_24_SocketIO_Test#readme"
+  "homepage": "https://github.com/fancn21th/0_24_SocketIO_Test#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  }
 }
