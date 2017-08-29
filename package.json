@@ -1,0 +1,20 @@
+{
+  "name": "0_24_SocketIO_Test",
+  "version": "1.0.0",
+  "description": "SocketIO_Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fancn21th/0_24_SocketIO_Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fancn21th/0_24_SocketIO_Test/issues"
+  },
+  "homepage": "https://github.com/fancn21th/0_24_SocketIO_Test#readme"
+}
