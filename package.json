@@ -19,6 +19,7 @@
   "homepage": "https://github.com/fancn21th/0_24_SocketIO_Test#readme",
   "dependencies": {
     "express": "^4.15.4",
+    "moment": "^2.18.1",
     "socket.io": "^2.0.3"
   }
 }
